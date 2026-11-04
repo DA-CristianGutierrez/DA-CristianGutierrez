@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hola ! mi nombre es Cristian Gutiérrez, es un placer tenerte por aquí
+----------------------------------------------------------------------------------------------------------------------------------------
+🌱 Actualmente, estoy transitando con entusiasmo mi carrera hacia Data Analytics, aprendiendo sobre nuevas herramientas de transformación de datos y conceptos de negocio básicos. 
 
+🔍 Aprendí a transformar datos crudos en información estratégica que impulse decisiones empresariales inteligentes. Disfruto utilizando herramientas como Python, SQL, Tableau, power BI y Excel para optimizar procesos y generar informes analíticos que ayuden a las organizaciones a alcanzar sus metas.
+
+💡 Me encuentro buscando nuevos retos profesionales donde pueda aplicar mi pasión por el Data Analytics. Me siento intensamente atraído hacia las plataformas de productos digitales donde se desarrolla e-comerce o en la industria de redes sociales y plataformas de entretenimiento.  
 <!--
 **DA-CristianGutierrez/DA-CristianGutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

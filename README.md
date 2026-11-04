@@ -19,7 +19,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 💻 Proyectos destacados
-En mi perfil de GitHub, podrás explorar una variedad de proyectos que he desarrollado, cada uno con una descripción detallada, instrucciones de uso y otros detalles adicionales.
+
+En mi perfil de GitHub, podrás explorar una variedad de proyectos que he desarrollado los cuales se almacenan en diferentes repositorios, cada uno con una descripción detallada, instrucciones de uso y otros detalles adicionales.
 
 <!--
 **DA-CristianGutierrez/DA-CristianGutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

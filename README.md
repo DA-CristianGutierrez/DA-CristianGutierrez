@@ -1,4 +1,4 @@
-## Hola ! mi nombre es Cristian Gutiérrez, es un placer tenerte por aquí
+## Hola, Soy Cristan, es un placer tenerte por aquí
 ----------------------------------------------------------------------------------------------------------------------------------------
 🌱 Actualmente, estoy transitando con entusiasmo mi carrera hacia Data Analytics, aprendiendo sobre nuevas herramientas de transformación de datos y conceptos de negocio básicos. 
 
